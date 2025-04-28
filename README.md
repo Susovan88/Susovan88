@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **palsusovan88@gmail.com**
 
-- 📄 Know about me [CSE 2nd year student at NSEC]
+- 📄 Know about me [CSE 3nd year student at NSEC]
 
 - ⚡ Fun fact about me - **If my project works without a bug, it’s probably a copy-paste project.**
 

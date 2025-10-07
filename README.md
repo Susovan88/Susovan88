@@ -57,7 +57,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <div align="center">
-![snake gif](https://github.com/Susovan88/Susovan88/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Susovan88/Susovan88/output/github-snake-dark.svg)
 </div>
 
 # 📊 GitHub Stats:

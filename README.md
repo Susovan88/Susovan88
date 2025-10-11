@@ -1,4 +1,4 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+---
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Susovan+Paul;MERN+Stack+Developer;AI/ML+Enthusiast+🤖;Hackathon+Participant+%F0%9F%8E%AF;🤖Always+Learning+New+Things!">
@@ -7,14 +7,28 @@
 ---
 
 ## 💫 About Me:
-<h3 align="center">A passionate MERN Stack Developer & AI/ML Enthusiast from India</h3>
+<table>
+  <tr>
+    <td width="60%">
+      <h3 align="left">👋 Hey there! I'm <strong>Susovan Paul</strong></h3>
+      <h3 align="left">A Passionate <strong>MERN Stack Developer</strong> & <strong>AI/ML Enthusiast</strong> from 🇮🇳 India</h3>
 
-- 🔭 I’m currently working on **MERN Stack Projects** and exploring **AI/ML**  
-- 🌱 I’m learning **DSA in C++, Machine Learning, and practicing advanced backend**  
-- 👯 I’m open to collaborating on **exciting real-world projects and hackathons**  
-- 💬 Ask me about **React.js, Node.js, MongoDB, Express.js, AI/ML Basics**  
-- 📫 Reach me at: **palsusovan88@gmail.com**  
-- ⚡ Fun fact: *If my project works on the first try, it’s probably a copy-paste project 😂*
+  <ul>
+    <li>🔭 Currently exploring <strong>AI/ML</strong> and working on <strong>MERN Stack Projects</strong> </li>
+    <li>🌱 Learning <strong>DSA in C++</strong>, <strong>Machine Learning</strong>, and <strong>Advanced Backend Development</strong></li>
+    <li>👯 Open to collaborating on <strong>real-world projects</strong> & <strong>hackathons</strong></li>
+    <li>💬 Ask me about <strong> Node.js, MongoDB, Express.js, AI/ML Basics</strong></li>
+    <li>📫 Reach me at: <strong>palsusovan88@gmail.com</strong></li>
+    <li>🤖 Exploring how <strong>AI & Web Development</strong> can merge to build smart applications</li>
+    <li>⚡ Fun fact: <em>If my project works on the first try, it’s probably a copy-paste project 😂</em></li>
+  </ul>
+</td>
+<td width="40%" align="center">
+  <img align="right" alt="Coding" width="350" height="250" src="https://camo.githubusercontent.com/3fb3870b02bcf34c84aa31d2e4ee34bb076d32e091e5576608d5f9515f5c920f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f312a564d6d76496d636836565535706332566b74593175772e676966">
+</td>
+
+  </tr>
+</table>
 
 ---
 
@@ -35,18 +49,56 @@
 
 ---
 
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
 ## 🛠️ Tech Stack:
 <p align="center">
+  <!-- MERN Stack -->
   <img src="https://img.shields.io/badge/MERN-Stack-%23323330?style=for-the-badge&logo=mongodb&logoColor=green" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+  <!-- Backend & Databases -->
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
+
+  <!-- AI / ML -->
   <img src="https://img.shields.io/badge/AI%2FML-enthusiast-%234285F4?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/ScikitLearn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black" />
+
+  <!-- Tools & Others -->
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---

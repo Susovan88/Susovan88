@@ -26,21 +26,12 @@
   <a href="https://leetcode.com/u/susovan137/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
----
+<div align="center">
 
-## 🏅 LeetCode Progress:
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/susovan137?ext=contest&theme=dark" />
-</p>
+![snake gif](https://github.com/subratamondalnsec/subratamondalnsec/blob/output/github-snake-dark.svg)
 
+</div>
 
----
-
-## 🏅 LeetCode Badges:
-<p align="center">
-  <img src="https://img.shields.io/badge/Solved%2050%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Solved%20100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</p>
 
 ---
 
@@ -68,7 +59,26 @@
 </p>
 
 ---
+<h2> <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" width="35px">  &nbsp;My GitHub History! 📈</h2>
 
+![3d-profile](profile-3d-contrib/profile-night-green.svg)
+
+---
+
+## 🏅 LeetCode Progress:
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/susovan137?ext=contest&theme=dark" />
+</p>
+
+---
+
+## 🏅 LeetCode Badges:
+<p align="center">
+  <img src="https://img.shields.io/badge/Solved%2050%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Solved%20100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</p>
+
+---
 
 ## 📌 Pinned Projects:
 - [🌿 OxyTrack.com](https://github.com/Susovan88/OxyTrack.com)  
